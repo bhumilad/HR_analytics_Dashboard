@@ -67,4 +67,4 @@ The dashboard is designed to help HR teams monitor employee behavior, identify a
 
 ## 🤝 Connect : 
 If you’d like to collaborate on analytics, data visualization, or workforce insights:  
-🔗 [Connect with me on LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/lad-bhumi/))  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/lad-bhumi/) 
